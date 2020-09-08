@@ -5,3 +5,5 @@ To use this macros go to the plugins.
 
 ![plugin menu](images/plugin_menu.png)
 ![new plugin](images/new_plugin.png)
+
+[OnlyOfficeSpreadsheetMacroAPI](https://api.onlyoffice.com/docbuilder/spreadsheetapi)
